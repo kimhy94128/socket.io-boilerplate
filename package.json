@@ -1,0 +1,16 @@
+{
+  "name": "socket.io-boilerplate",
+  "version": "1.0.0",
+  "description": "socket.io boilerplate with Express, React",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^3.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "author": "yongary",
+  "license": "ISC"
+}
